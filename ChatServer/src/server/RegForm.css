@@ -1,0 +1,33 @@
+#topBar{
+    -fx-background-color: #00ace6;
+}
+
+#serverFormMainPane {
+    -fx-background-color:#dff2f6;
+}
+
+#nameLbl, #userNameLbl, #passLbl, #countryLbl, #addrLbl, #genderLbl {
+    -fx-text-fill: #0099cc;   
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+#emailRules, #passRules {
+    -fx-text-fill: #990000;
+}
+
+#signUpBtn, #cancelBtn{
+   -fx-background-color: #00ace6; 
+    -fx-text-fill: #fff;
+    -fx-font-size: 12;
+    -fx-font-weight: bold;
+}
+#countryTxt{
+     -fx-background-color: #BBDAE8;
+}
+#addressTxt,#passwordTxt,#userNameTxt,#emailTxt{
+   -fx-text-fill: #990000;
+}
+#femaleBtn,#maleBtn{
+ -fx-font-size: 14;  
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="Messages.xsl"?>
+<ns2:Messages xmlns:ns2="http://www.ahmed.com">
+    <Message>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2017-12-31T19:52:05.483</date>
+        <body>hi</body>
+    </Message>
+    <Message>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2017-12-31T19:52:06.376</date>
+        <body>sada</body>
+    </Message>
+    <Message>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2017-12-31T19:52:07.512</date>
+        <body>asdasd</body>
+    </Message>
+    <Message>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2017-12-31T19:52:09.436</date>
+        <body>hhhh</body>
+    </Message>
+</ns2:Messages>

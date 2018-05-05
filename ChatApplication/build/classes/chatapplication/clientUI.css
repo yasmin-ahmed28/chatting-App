@@ -1,0 +1,105 @@
+
+#iconsBar, #msgsContainer, #ContactInfoHBox{
+    -fx-background-color:#dff2f6;   
+}
+
+#topBar {
+    -fx-background-color: #00ace6;     
+}
+
+#contactAndMsgPane {
+    -fx-border-color: #BEBEBE;
+}
+
+#personName, #personJob {
+    -fx-text-fill: #383838;
+}
+
+#contactName {
+    -fx-text-fill: #383838;
+}
+#reqNotifications{
+    -fx-background-color: transparent;
+    -fx-graphic: url("../images/notif1.png");
+    -fx-border-color: #BEBEBE;
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: #e1e1e1;
+    -fx-border-width: 1px;   
+}
+#otherNotifications{
+    -fx-border-radius: 3px;
+    -fx-background-color: #A0D5E4;
+    -fx-text-fill: #fff;
+}
+#createGrBtn{
+    -fx-background-color:#00ace6;
+    -fx-text-fill: #fff;
+    -fx-font-size: 13;
+    -fx-font-weight: bold;
+
+}
+#groupNameField,#typeMsgField{
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: #e1e1e1;
+    -fx-border-width: 1px;
+    -fx-font:Verdana; 
+    -fx-font-size: 13;
+}
+#colorPicker,#fontTypePicker,#fontSizePicker{
+    -fx-border-radius: 3px;
+    -fx-background-color: #A0D5E4;
+    -fx-text-fill: #fff;
+}
+#statusBox{
+    -fx-border-radius: 3px;
+    -fx-background-color: #A0D5E4;
+    -fx-text-fill: #fff;
+}
+.upLeft {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 15 15 15 5; 
+    -fx-background-radius: 10 10 10 1;
+    -fx-padding:5 5 5 5;
+}
+
+.middleLeft {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 5 15 15 5; 
+    -fx-background-radius: 1 10 10 1;
+    -fx-padding:5 5 5 5;
+}
+
+.downLeft {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 5 15 15 15; 
+    -fx-background-radius: 1 10 10 10;
+    -fx-padding:5 5 5 5; 
+}
+.downRight {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 15 5 15 15; 
+    -fx-background-radius: 10 1 10 10;
+    -fx-padding:5 5 5 5;
+}
+
+.middleRight {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 15 5 5 15; 
+    -fx-background-radius: 10 1 1 10;
+    -fx-padding:5 5 5 5;
+}
+
+.upRight {
+    -fx-background-color:#99e6ff;
+    -fx-border-radius: 15 15 5 15; 
+    -fx-background-radius: 10 10 1 10;
+    -fx-padding:5 5 5 5; 
+}
+.firstMsg{
+    -fx-padding: 5 5 5 5;    
+    -fx-background-color:#99e6ff;    
+    -fx-border-radius: 15 15 15 15; 
+    -fx-background-radius: 10 10 10 10; 
+}

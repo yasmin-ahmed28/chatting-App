@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="Messages.xsl"?>
+<ns2:Messages xmlns:ns2="http://www.ahmed.com">
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:17.687</date>
+        <body>hi</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Adobe Arabic</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:28.737</date>
+        <body>ahlan</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Adobe Arabic</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:28.737</date>
+        <body>ahlan</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:40.173</date>
+        <body>والله يا ياسمين</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Adobe Arabic</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:38.238</date>
+        <body>stay with me in 2018 ;)</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Ahmed Osman</to>
+        <from>Yasmin Ahmed</from>
+        <color>0xa9a9a9ff</color>
+        <font>Adobe Arabic</font>
+        <size>10</size>
+        <date>2018-01-01T20:08:38.238</date>
+        <body>stay with me in 2018 ;)</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:09:05.779</date>
+        <body>i will stay with you</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:09:12.409</date>
+        <body>forever :D</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:10:46.244</date>
+        <body>yasmin</body>
+    </Message>
+    <Message>
+        <type>sender</type>
+        <to>Yasmin Ahmed</to>
+        <from>Ahmed Osman</from>
+        <color>0xa9a9a9ff</color>
+        <font>Agency FB</font>
+        <size>10</size>
+        <date>2018-01-01T20:11:15.115</date>
+        <body>ردى يا ............</body>
+    </Message>
+</ns2:Messages>

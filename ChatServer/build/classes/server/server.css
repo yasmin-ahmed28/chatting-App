@@ -1,0 +1,32 @@
+#mainPane {
+    -fx-background-color: #dff2f6;   
+}
+#topBar{
+    -fx-background-color: #00ace6;
+}
+#signOut, #sendToAll, #serverStart, #serverStop, #serverStatictics, #addUsers{
+    -fx-text-fill:#fff;
+    -fx-font-size: 12;
+    -fx-font-weight: bold;
+    -fx-background-color: #BBDAE8;
+}
+.changed{
+    -fx-background-color: #1a3c4c;
+}
+#notificationTxt{
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: #e1e1e1;
+}
+#offlineTxt{
+    -fx-font-size: 15;
+    -fx-text-fill:red;
+}
+#onlineTxt{
+    -fx-font-size: 15;
+    -fx-text-fill:green;
+}
+
+#statisticsVBox {
+    -fx-background-color: #BBDAE8;
+}

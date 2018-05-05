@@ -1,0 +1,47 @@
+
+.mainFxmlClass {
+
+}
+
+#userNameTxt
+{
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: #e1e1e1;
+    -fx-border-width: 1px;
+    -fx-font:Verdana;
+    -fx-text-fill: #990000;
+}
+#passwordTxt{
+    -fx-border-radius: 3px;
+    -fx-border-style: solid;
+    -fx-border-color: #e1e1e1;
+    -fx-border-width: 1px;
+    -fx-font:Verdana; 
+    -fx-text-fill: #990000;
+}
+
+#passLbl, #userNameLbl {
+    -fx-text-fill: #0099cc;   
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+} 
+#signInBtn{
+    -fx-border-color:#79a4b2;
+     -fx-border-radius: 3px;
+}
+
+#BorderPane{
+    -fx-background-color:#dff2f6;
+}
+
+#topBar{
+    -fx-background-color: #00ace6;
+}
+
+#signInBtn, #signUpBtn {
+    -fx-background-color: #00ace6;
+    -fx-text-fill: #fff;
+    -fx-font-size: 12;
+    -fx-font-weight: bold;
+}
